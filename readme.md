@@ -1,0 +1,2 @@
+# This project is designed for searching a word within a movie, and the descriptions of all versions are provided in their respective README files. For more details, please go to the version folder and read the README file.
+To access version v1.0.0, please go to the [v1.0.0](Video_Word_Finder_v1.0.0) folder.
